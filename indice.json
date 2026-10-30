@@ -1,0 +1,69 @@
+{
+  "atualizado_em": "2026-10-30T18:06:04.771331+00:00",
+  "semanas": [
+    {
+      "semana": "2026-10-05",
+      "data_execucao": "2026-10-05",
+      "gerado_em": "2026-10-05T17:29:06-03:00",
+      "origem": "importado",
+      "total_unidades": 42,
+      "resumo": {
+        "sem_influenciadora": 11,
+        "vencendo_30d": 0,
+        "sem_uso_30d": 50,
+        "vencidas_ativas": 10,
+        "sem_data_termino": 35,
+        "duplicados": 0,
+        "influenciadoras_ativas": null
+      }
+    },
+    {
+      "semana": "2026-10-12",
+      "data_execucao": "2026-10-13",
+      "gerado_em": "2026-10-13T07:58:47-03:00",
+      "origem": "importado",
+      "total_unidades": 42,
+      "resumo": {
+        "sem_influenciadora": 11,
+        "vencendo_30d": 0,
+        "sem_uso_30d": 43,
+        "vencidas_ativas": 4,
+        "sem_data_termino": 35,
+        "duplicados": 3,
+        "influenciadoras_ativas": null
+      }
+    },
+    {
+      "semana": "2026-10-19",
+      "data_execucao": "2026-10-19",
+      "gerado_em": "2026-10-19T10:01:40-03:00",
+      "origem": "importado",
+      "total_unidades": 44,
+      "resumo": {
+        "sem_influenciadora": 11,
+        "vencendo_30d": 0,
+        "sem_uso_30d": 44,
+        "vencidas_ativas": 8,
+        "sem_data_termino": 35,
+        "duplicados": 3,
+        "influenciadoras_ativas": null
+      }
+    },
+    {
+      "semana": "2026-10-26",
+      "data_execucao": "2026-10-26",
+      "gerado_em": "2026-10-26T10:02:02-03:00",
+      "origem": "importado",
+      "total_unidades": 44,
+      "resumo": {
+        "sem_influenciadora": 11,
+        "vencendo_30d": 2,
+        "sem_uso_30d": 47,
+        "vencidas_ativas": 8,
+        "sem_data_termino": 35,
+        "duplicados": 3,
+        "influenciadoras_ativas": null
+      }
+    }
+  ]
+}

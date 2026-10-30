@@ -1,0 +1,515 @@
+{
+  "versao": 1,
+  "semana": "2026-10-19",
+  "data_execucao": "2026-10-19",
+  "gerado_em": "2026-10-19T10:01:40-03:00",
+  "origem": "importado",
+  "observacao": "Semana importada do relatório do Radar enviado no chat; não traz a lista completa de influenciadoras por unidade.",
+  "total_unidades": 44,
+  "resumo": {
+    "sem_influenciadora": 11,
+    "vencendo_30d": 0,
+    "sem_uso_30d": 44,
+    "vencidas_ativas": 8,
+    "sem_data_termino": 35,
+    "duplicados": 3,
+    "influenciadoras_ativas": null
+  },
+  "prioridades": [
+    {
+      "ordem": 3,
+      "tipo": "sem_uso_na_unidade",
+      "unidade": "bLOw MG | Belo Horizonte - Savassi",
+      "texto": "nenhuma das 3 influenciadoras ativas gerou uso de cupom em 30 dias."
+    },
+    {
+      "ordem": 3,
+      "tipo": "sem_uso_na_unidade",
+      "unidade": "bLOw MS | Campo Grande - Jardim dos Estados",
+      "texto": "a única influenciadora ativa não gerou uso de cupom em 30 dias."
+    },
+    {
+      "ordem": 3,
+      "tipo": "sem_uso_na_unidade",
+      "unidade": "bLOw PR | Curitiba - Batel",
+      "texto": "a única influenciadora ativa não gerou uso de cupom em 30 dias."
+    },
+    {
+      "ordem": 3,
+      "tipo": "sem_uso_na_unidade",
+      "unidade": "bLOw RS | Atlântida - Centro",
+      "texto": "a única influenciadora ativa não gerou uso de cupom em 30 dias."
+    },
+    {
+      "ordem": 3,
+      "tipo": "sem_uso_na_unidade",
+      "unidade": "bLOw SC | Chapecó - Centro",
+      "texto": "nenhuma das 4 influenciadoras ativas gerou uso de cupom em 30 dias."
+    },
+    {
+      "ordem": 3,
+      "tipo": "sem_uso_na_unidade",
+      "unidade": "bLOw SP | Franca - Centro",
+      "texto": "nenhuma das 3 influenciadoras ativas gerou uso de cupom em 30 dias."
+    },
+    {
+      "ordem": 3,
+      "tipo": "sem_uso_na_unidade",
+      "unidade": "bLOw SP | Ribeirão Preto - Jardim Sumaré",
+      "texto": "a única influenciadora ativa não gerou uso de cupom em 30 dias."
+    },
+    {
+      "ordem": 3,
+      "tipo": "sem_uso_na_unidade",
+      "unidade": "bLOw SP | São Paulo - Moema",
+      "texto": "a única influenciadora ativa não gerou uso de cupom em 30 dias."
+    },
+    {
+      "ordem": 3,
+      "tipo": "sem_uso_na_unidade",
+      "unidade": "Florianópolis",
+      "texto": "a única influenciadora ativa não gerou uso de cupom em 30 dias."
+    }
+  ],
+  "unidades_sem_influenciadora": [
+    "bLOw BA | Salvador - Barra",
+    "bLOw BA | Salvador - Caminho das Árvores",
+    "bLOw ES | Vila Velha - Praia da Costa",
+    "bLOw MG | Belo Horizonte - Belvedere",
+    "bLOw MT | Cuiabá - São Mateus",
+    "bLOw PB | João Pessoa - Tambaú",
+    "bLOw RJ | Niterói",
+    "bLOw RS | Santa Maria - Royal Plaza",
+    "bLOw RS | São Leopoldo - Centro",
+    "bLOw SC | São José - Campinas",
+    "bLOw SE | Aracaju"
+  ],
+  "vencendo": [],
+  "sem_uso": [
+    {
+      "unidade": "bLOw CE | Fortaleza - Dionísio Torres",
+      "instagram": "@cleanesampaioo",
+      "ultima": null
+    },
+    {
+      "unidade": "bLOw DF | Brasília - Asa Sul",
+      "instagram": "@gabrielamunizdiniz",
+      "ultima": "2026-03-10"
+    },
+    {
+      "unidade": "bLOw MG | Belo Horizonte - Savassi",
+      "instagram": "@paulagabitrips",
+      "ultima": null
+    },
+    {
+      "unidade": "bLOw MG | Belo Horizonte - Savassi",
+      "instagram": "@soueuday",
+      "ultima": null
+    },
+    {
+      "unidade": "bLOw MG | Belo Horizonte - Savassi",
+      "instagram": "@cafecumade",
+      "ultima": null
+    },
+    {
+      "unidade": "bLOw MS | Campo Grande - Chácara Cachoeira",
+      "instagram": "@dicakidscg",
+      "ultima": "2026-06-02"
+    },
+    {
+      "unidade": "bLOw MS | Campo Grande - Chácara Cachoeira",
+      "instagram": "@cecibabymarket",
+      "ultima": "2026-08-07"
+    },
+    {
+      "unidade": "bLOw MS | Campo Grande - Jardim dos Estados",
+      "instagram": "@sarahfalcao5",
+      "ultima": null
+    },
+    {
+      "unidade": "bLOw PR | Curitiba - Batel",
+      "instagram": "@breendafelix",
+      "ultima": null
+    },
+    {
+      "unidade": "bLOw RS | Atlântida - Centro",
+      "instagram": "@kyandrade",
+      "ultima": null
+    },
+    {
+      "unidade": "bLOw RS | Canoas - ParkShopping",
+      "instagram": "@juline.engelles",
+      "ultima": "2026-09-11"
+    },
+    {
+      "unidade": "bLOw RS | Pelotas - Centro",
+      "instagram": "(sem @)",
+      "ultima": "2024-12-13"
+    },
+    {
+      "unidade": "bLOw RS | POA - Menino Deus",
+      "instagram": "@ellencarolineadv",
+      "ultima": "2026-09-03"
+    },
+    {
+      "unidade": "bLOw RS | POA - Menino Deus",
+      "instagram": "@cari.luft",
+      "ultima": null
+    },
+    {
+      "unidade": "bLOw RS | POA - Moinhos de Vento",
+      "instagram": "@robertinhamarquardt",
+      "ultima": "2026-09-18"
+    },
+    {
+      "unidade": "bLOw RS | POA - Moinhos de Vento",
+      "instagram": "@patissilva_",
+      "ultima": "2026-03-05"
+    },
+    {
+      "unidade": "bLOw RS | POA - Moinhos de Vento",
+      "instagram": "@laurabiermoreira",
+      "ultima": null
+    },
+    {
+      "unidade": "bLOw RS | POA - Moinhos de Vento",
+      "instagram": "@kathibairros",
+      "ultima": null
+    },
+    {
+      "unidade": "bLOw RS | POA - Rio Branco",
+      "instagram": "@robertinhamarquardt",
+      "ultima": "2026-09-18"
+    },
+    {
+      "unidade": "bLOw RS | POA - Rio Branco",
+      "instagram": "@juliajohann",
+      "ultima": "2026-04-17"
+    },
+    {
+      "unidade": "bLOw RS | POA - Rio Branco",
+      "instagram": "@juobert",
+      "ultima": "2026-05-23"
+    },
+    {
+      "unidade": "bLOw RS | POA - Rio Branco",
+      "instagram": "@eduardanicaretta",
+      "ultima": "2026-05-25"
+    },
+    {
+      "unidade": "bLOw RS | POA - Rio Branco",
+      "instagram": "@vaginasemneura",
+      "ultima": null
+    },
+    {
+      "unidade": "bLOw RS | POA - Zona Sul",
+      "instagram": "@eljoanaa",
+      "ultima": null
+    },
+    {
+      "unidade": "bLOw RS | POA - Zona Sul",
+      "instagram": "@eduardanicaretta",
+      "ultima": "2026-05-25"
+    },
+    {
+      "unidade": "bLOw SC | Chapecó - Centro",
+      "instagram": "@marinamarchiori",
+      "ultima": "2026-08-08"
+    },
+    {
+      "unidade": "bLOw SC | Chapecó - Centro",
+      "instagram": "@prisquillante",
+      "ultima": null
+    },
+    {
+      "unidade": "bLOw SC | Chapecó - Centro",
+      "instagram": "@adv.alefrancescon",
+      "ultima": null
+    },
+    {
+      "unidade": "bLOw SC | Chapecó - Centro",
+      "instagram": "@eduardacargnin",
+      "ultima": "2026-08-24"
+    },
+    {
+      "unidade": "bLOw SC | Florianópolis - Centro",
+      "instagram": "@isahenslin",
+      "ultima": "2026-05-25"
+    },
+    {
+      "unidade": "bLOw SC | Florianópolis - Centro",
+      "instagram": "@dragiuliaa",
+      "ultima": "2026-09-18"
+    },
+    {
+      "unidade": "bLOw SC | Florianópolis - Centro",
+      "instagram": "@eubarbarabarbosa",
+      "ultima": null
+    },
+    {
+      "unidade": "bLOw SC | Florianópolis - Centro",
+      "instagram": "@descobrirflorianopolis",
+      "ultima": null
+    },
+    {
+      "unidade": "bLOw SC | Florianópolis - Centro",
+      "instagram": "(sem @)",
+      "ultima": "2024-12-13"
+    },
+    {
+      "unidade": "bLOw SC | Florianópolis - Centro",
+      "instagram": "@carolinafigueiredoreal",
+      "ultima": null
+    },
+    {
+      "unidade": "bLOw SC | Florianópolis - Santa Mônica",
+      "instagram": "(sem @)",
+      "ultima": "2024-12-13"
+    },
+    {
+      "unidade": "bLOw SP | Americana - Jardim São Paulo",
+      "instagram": "@dudachagasz",
+      "ultima": "2026-08-15"
+    },
+    {
+      "unidade": "bLOw SP | Franca - Centro",
+      "instagram": "@talitabaylon",
+      "ultima": null
+    },
+    {
+      "unidade": "bLOw SP | Franca - Centro",
+      "instagram": "@dicasfrancasp",
+      "ultima": null
+    },
+    {
+      "unidade": "bLOw SP | Franca - Centro",
+      "instagram": "@modadorafaa",
+      "ultima": null
+    },
+    {
+      "unidade": "bLOw SP | Piracicaba - São Judas",
+      "instagram": "@pamelaorsini",
+      "ultima": "2026-05-31"
+    },
+    {
+      "unidade": "bLOw SP | Ribeirão Preto - Jardim Sumaré",
+      "instagram": "@aamandapass",
+      "ultima": null
+    },
+    {
+      "unidade": "bLOw SP | São Paulo - Moema",
+      "instagram": "@paolaphilipp",
+      "ultima": null
+    },
+    {
+      "unidade": "Florianópolis",
+      "instagram": "@bea_ssousa",
+      "ultima": null
+    }
+  ],
+  "vencidas_ativas": [
+    {
+      "unidade": "bLOw BA | Feira de Santana - Santa Mônica",
+      "instagram": "@carolcerqueira.nutri",
+      "termino": "2026-10-05"
+    },
+    {
+      "unidade": "bLOw BA | Feira de Santana - Santa Mônica",
+      "instagram": "@jelbittencourt",
+      "termino": "2026-10-05"
+    },
+    {
+      "unidade": "bLOw MG | Belo Horizonte - Savassi",
+      "instagram": "@cafecumade",
+      "termino": "2026-10-15"
+    },
+    {
+      "unidade": "bLOw MG | BH Buritis",
+      "instagram": "@claracampara",
+      "termino": "2026-10-05"
+    },
+    {
+      "unidade": "bLOw RS | POA - Rio Branco",
+      "instagram": "@juliajohann",
+      "termino": "2025-06-30"
+    },
+    {
+      "unidade": "bLOw RS | POA - Rio Branco",
+      "instagram": "@eduardanicaretta",
+      "termino": "2025-12-31"
+    },
+    {
+      "unidade": "bLOw RS | POA - Zona Sul",
+      "instagram": "@eljoanaa",
+      "termino": "2024-12-31"
+    },
+    {
+      "unidade": "bLOw RS | POA - Zona Sul",
+      "instagram": "@eduardanicaretta",
+      "termino": "2025-12-31"
+    }
+  ],
+  "sem_data_termino": [
+    {
+      "unidade": "bLOw CE | Fortaleza - Dionísio Torres",
+      "instagram": "@cleanesampaioo"
+    },
+    {
+      "unidade": "bLOw DF | Brasília - Águas Claras",
+      "instagram": "@gikoppe"
+    },
+    {
+      "unidade": "bLOw DF | Brasília - Águas Claras",
+      "instagram": "@euleilaguimaraes"
+    },
+    {
+      "unidade": "bLOw DF | Brasília - Águas Claras",
+      "instagram": "@marinalageazevedo"
+    },
+    {
+      "unidade": "bLOw DF | Brasília - Asa Norte",
+      "instagram": "@raybendor"
+    },
+    {
+      "unidade": "bLOw DF | Brasília - Lago Sul",
+      "instagram": "@roteirinhobrasilia"
+    },
+    {
+      "unidade": "bLOw MG | Belo Horizonte - Savassi",
+      "instagram": "@soueuday"
+    },
+    {
+      "unidade": "bLOw PR | Curitiba - Batel",
+      "instagram": "@breendafelix"
+    },
+    {
+      "unidade": "bLOw RS | Atlântida - Centro",
+      "instagram": "@kyandrade"
+    },
+    {
+      "unidade": "bLOw RS | Canoas - Centro",
+      "instagram": "@femincarone"
+    },
+    {
+      "unidade": "bLOw RS | Canoas - ParkShopping",
+      "instagram": "@femincarone"
+    },
+    {
+      "unidade": "bLOw RS | Novo Hamburgo - Jardim Mauá",
+      "instagram": "@femincarone"
+    },
+    {
+      "unidade": "bLOw RS | Pelotas - Centro",
+      "instagram": "@femincarone"
+    },
+    {
+      "unidade": "bLOw RS | Pelotas - Centro",
+      "instagram": "(sem @)"
+    },
+    {
+      "unidade": "bLOw RS | POA - Jardim Europa",
+      "instagram": "@femincarone"
+    },
+    {
+      "unidade": "bLOw RS | POA - Menino Deus",
+      "instagram": "@femincarone"
+    },
+    {
+      "unidade": "bLOw RS | POA - Menino Deus",
+      "instagram": "@brunastartt"
+    },
+    {
+      "unidade": "bLOw RS | POA - Menino Deus",
+      "instagram": "@cari.luft"
+    },
+    {
+      "unidade": "bLOw RS | POA - Moinhos de Vento",
+      "instagram": "@laurabiermoreira"
+    },
+    {
+      "unidade": "bLOw RS | POA - Moinhos de Vento",
+      "instagram": "@femincarone"
+    },
+    {
+      "unidade": "bLOw RS | POA - Moinhos de Vento",
+      "instagram": "@kathibairros"
+    },
+    {
+      "unidade": "bLOw RS | POA - Rio Branco",
+      "instagram": "@femincarone"
+    },
+    {
+      "unidade": "bLOw RS | POA - Rio Branco",
+      "instagram": "@femincarone"
+    },
+    {
+      "unidade": "bLOw RS | POA - Rio Branco",
+      "instagram": "@vaginasemneura"
+    },
+    {
+      "unidade": "bLOw RS | POA - Zona Sul",
+      "instagram": "@femincarone"
+    },
+    {
+      "unidade": "bLOw SC | Balneário Camboriú - Centro",
+      "instagram": "@jessicamouraart"
+    },
+    {
+      "unidade": "bLOw SC | Florianópolis - Centro",
+      "instagram": "@eubarbarabarbosa"
+    },
+    {
+      "unidade": "bLOw SC | Florianópolis - Centro",
+      "instagram": "@descobrirflorianopolis"
+    },
+    {
+      "unidade": "bLOw SC | Florianópolis - Centro",
+      "instagram": "(sem @)"
+    },
+    {
+      "unidade": "bLOw SC | Florianópolis - Centro",
+      "instagram": "@carolinafigueiredoreal"
+    },
+    {
+      "unidade": "bLOw SC | Florianópolis - Santa Mônica",
+      "instagram": "(sem @)"
+    },
+    {
+      "unidade": "bLOw SP | Franca - Centro",
+      "instagram": "@talitabaylon"
+    },
+    {
+      "unidade": "bLOw SP | Franca - Centro",
+      "instagram": "@dicasfrancasp"
+    },
+    {
+      "unidade": "bLOw SP | Ribeirão Preto - Jardim Sumaré",
+      "instagram": "@aamandapass"
+    },
+    {
+      "unidade": "bLOw SP | São Paulo - Moema",
+      "instagram": "@paolaphilipp"
+    }
+  ],
+  "duplicados": [
+    {
+      "unidade": "bLOw CE | Fortaleza - Dionísio Torres",
+      "instagram": "@cleanesampaioo",
+      "qtd": 2,
+      "datas": "sem data, 01/12/2026"
+    },
+    {
+      "unidade": "bLOw RS | POA - Rio Branco",
+      "instagram": "@femincarone",
+      "qtd": 2,
+      "datas": "sem data, sem data"
+    },
+    {
+      "unidade": "bLOw SC | Florianópolis - Centro",
+      "instagram": "@carolinafigueiredoreal",
+      "qtd": 2,
+      "datas": "sem data, 28/11/2026"
+    }
+  ],
+  "unidades": null
+}
