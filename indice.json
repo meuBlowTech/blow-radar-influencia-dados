@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-10-30T18:06:04.771331+00:00",
+  "atualizado_em": "2026-11-09T19:51:45.626Z",
   "semanas": [
     {
       "semana": "2026-10-05",
@@ -63,6 +63,22 @@
         "sem_data_termino": 35,
         "duplicados": 3,
         "influenciadoras_ativas": null
+      }
+    },
+    {
+      "semana": "2026-11-09",
+      "data_execucao": "2026-11-09",
+      "gerado_em": "2026-11-09T19:51:45.615Z",
+      "origem": "radar",
+      "total_unidades": 46,
+      "resumo": {
+        "sem_influenciadora": 13,
+        "vencendo_30d": 6,
+        "sem_uso_30d": 57,
+        "vencidas_ativas": 3,
+        "sem_data_termino": 35,
+        "duplicados": 3,
+        "influenciadoras_ativas": 83
       }
     }
   ]
